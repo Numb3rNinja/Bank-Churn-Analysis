@@ -38,8 +38,60 @@ churn
 2. **Churn rates vary significantly by geography, with Germany posing the graetest concern.** Despite representing only a quarter of the customer base, Germany contributed nearly 40% of all churned accounts. This suggests that country-specific issues-possibly related to competition, customer experience, or local market expectations areaffecting retention.
 3. **Single-product customers are the most vulnerable segment.** A large proportion of churned customers held only one product. By contrast, those with tow products demonstrated stronger loyalty, while customers with three or more products showed a slight rise in churn, potentially due to product complexity or lack of perceived value.
 
+![Image](https://github.com/user-attachments/assets/d9fbf193-0f4b-4599-ae18-f44c9e126e0c)
 
 
+## Insights Deep Dive
+
+This section explores the key behavioral, demographic, and financial insights that contribute to customer churn. Each insight is supported by quantitative metrics and Power BI visualizations to identify actionable patterns across four critical business dimensions.
+
+**Customer Activity Level**
+
+- An analysis of activity flags shows that inactive customers have a churn rate of 63.92%, making inactivity the most significant early indicator of churn. This group represents just under half of the total customer base, but more than 60% of churned accounts.
+
+- Evaluation of active customer data reveals that although active users comprise 51.5% of all customers, they represent only 36% of churned accounts, underscoring the protective effect of regular engagement.
+
+- Inactive users tend to have lower balances, fewer products, and lower credit scores on average—suggesting a compounding effect of disengagement and low value.
+
+- Churn likelihood increases sharply after 60 days of inactivity. Customers inactive for more than three months were almost twice as likely to churn compared to those recently active.
+
+
+
+
+**Geography-Based Churn**
+
+- An evaluation of country-wise churn shows that Germany accounts for 39.96% of all churned customers, despite making up just 25% of the total customer base. This regional imbalance highlights the need for a location-specific churn mitigation strategy.
+
+- France and Spain display healthier churn behavior, with churn rates 10.38% and 4.5% lower than their population share, respectively. Customers in these countries tend to have better engagement and a more balanced product mix.
+
+- Germany has a higher proportion of inactive customers and single-product users, potentially contributing to its elevated churn rate.
+
+- Customer satisfaction and Net Promoter Scores (NPS), where available, are lower in Germany—further supporting the hypothesis of localized service or experience gaps.
+
+
+
+
+**Product Holding Behavior**
+
+- An analysis of product ownership shows that customers with only one product have a churn rate of 69.17%, making them the most at-risk group. These customers often hold basic checking accounts or a single credit product.
+
+- Customers with two products display the highest loyalty, with a churn rate of only 17.08%. They typically combine a checking account with a savings or credit product.
+
+- Interestingly, customers with three or more products have slightly elevated churn compared to two-product users, possibly due to product complexity, misalignment with needs, or poor onboarding experience.
+
+- Product mix matters: customers with a credit card and savings account are more likely to stay than those with a checking account and investment product only.
+
+
+
+**Financial Risk Factors (Balance & Credit Score)**
+
+- Evaluation of account balances reveals that customers in the 1k–10k range have nearly 100% churn, despite being a smaller segment. These accounts are often low-activity or fee-sensitive.
+
+- Customers with a zero balance show moderate churn, indicating many of them may be new sign-ups, dormant users, or trial customers with low initial investment.
+
+- The 100k–200k balance tier represents the most stable group, both in terms of loyalty and volume. These customers form the financial backbone of the bank’s portfolio and tend to hold multiple products.
+
+- Credit score segmentation shows that churn is extremely high for scores ≤400, but stabilizes starting from the 401–500 range, and remains consistently low through the 601–700 band—where most customers fall.
 
 
 

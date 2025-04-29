@@ -68,7 +68,7 @@ This section explores the key behavioral, demographic, and financial insights th
 
 - Customer satisfaction and Net Promoter Scores (NPS), where available, are lower in Germany—further supporting the hypothesis of localized service or experience gaps.
 
-
+![Image](https://github.com/user-attachments/assets/b984d68c-ef5b-45a8-a293-636018aacd60)
 
 
 **Product Holding Behavior**

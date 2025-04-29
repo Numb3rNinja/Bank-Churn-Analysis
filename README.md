@@ -32,4 +32,17 @@ churn
 - **Data Type Validation:** Reviewed and corrected inconsistencies in data types for key fields such as balance, credit score, and product count. 
 
 
+# Executive Summary
+## Overview of Findings
+1. **Inactive customers are substancially more likely to churn.** Customers who showed no recent activity accounted for a disproportionately high percentage of churn. Their disengagement emerged a sa clear red flag for potential departure, indicating that sustained interaction with bank products and services is vital for retention.
+2. **Churn rates vary significantly by geography, with Germany posing the graetest concern.** Despite representing only a quarter of the customer base, Germany contributed nearly 40% of all churned accounts. This suggests that country-specific issues-possibly related to competition, customer experience, or local market expectations areaffecting retention.
+3. **Single-product customers are the most vulnerable segment.** A large proportion of churned customers held only one product. By contrast, those with tow products demonstrated stronger loyalty, while customers with three or more products showed a slight rise in churn, potentially due to product complexity or lack of perceived value.
+
+
+
+
+
+
+
+
 

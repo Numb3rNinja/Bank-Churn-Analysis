@@ -81,6 +81,7 @@ This section explores the key behavioral, demographic, and financial insights th
 
 - Product mix matters: customers with a credit card and savings account are more likely to stay than those with a checking account and investment product only.
 
+![Image](https://github.com/user-attachments/assets/ca3b59b9-e82b-41e2-9e90-3952a70324c9)
 
 
 **Financial Risk Factors (Balance & Credit Score)**
@@ -92,6 +93,8 @@ This section explores the key behavioral, demographic, and financial insights th
 - The 100k–200k balance tier represents the most stable group, both in terms of loyalty and volume. These customers form the financial backbone of the bank’s portfolio and tend to hold multiple products.
 
 - Credit score segmentation shows that churn is extremely high for scores ≤400, but stabilizes starting from the 401–500 range, and remains consistently low through the 601–700 band—where most customers fall.
+
+
 
 
 

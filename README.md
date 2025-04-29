@@ -55,7 +55,7 @@ This section explores the key behavioral, demographic, and financial insights th
 
 - Churn likelihood increases sharply after 60 days of inactivity. Customers inactive for more than three months were almost twice as likely to churn compared to those recently active.
 
-
+![Image](https://github.com/user-attachments/assets/74263988-c62f-40e6-8cbe-148c27a66b47)
 
 
 **Geography-Based Churn**

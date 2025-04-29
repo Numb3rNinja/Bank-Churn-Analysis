@@ -94,8 +94,81 @@ This section explores the key behavioral, demographic, and financial insights th
 
 - Credit score segmentation shows that churn is extremely high for scores ≤400, but stabilizes starting from the 401–500 range, and remains consistently low through the 601–700 band—where most customers fall.
 
+![Image](https://github.com/user-attachments/assets/62804bd6-9014-45df-ab6a-f5d13a494993)   ![Image](https://github.com/user-attachments/assets/c49c03b5-82bb-4abd-9770-cc628a950896)
 
 
+## Recommendations
+
+Based on the insights uncovered through this Power BI-driven churn analysis, the following recommendations are proposed for the Customer Experience and Retention Team. Each recommendation aligns with a specific risk factor or opportunity area and is designed to reduce churn, improve engagement, and increase customer lifetime value (CLV).
+
+1. **Reactivation Campaigns for Inactive Users**
+
+Inactive customers represent the highest churn risk group.
+
+- Launch multi-channel reactivation campaigns (email, SMS, in-app) targeting customers with 30+ days of inactivity.
+
+- Use behavior-based triggers (e.g., lack of logins, no transactions) to prompt timely personalized offers.
+
+- Introduce a “Welcome Back” program offering small rewards or incentives for re-engagement (e.g., waived fees, bonus interest).
+
+
+2. **Country-Specific Retention Strategy for Germany**
+
+Germany shows the most disproportionate churn rate relative to its customer base.
+
+- Conduct localized surveys and focus groups in Germany to uncover friction points.
+
+- Benchmark customer service quality and digital platform performance against local competitors.
+
+- Tailor offers and services using region-specific messaging and product packaging based on cultural and economic preferences.
+
+- Deploy in-country retention managers to lead personalized follow-up with at-risk accounts.
+
+
+3. **Upsell and Cross-Sell to Single-Product Customers**
+
+- Single-product users are far more likely to churn than multi-product customers.
+
+- Identify and segment all single-product customers in Power BI for targeted upsell outreach.
+
+- Design smart product bundles (e.g., checking + savings or credit + investment) based on observed customer preferences and performance.
+
+- Implement automated recommendation engines on web and mobile apps to promote secondary product adoption.
+
+- Offer limited-time bundle discounts or fee waivers for customers adding a second product.
+
+
+4. **Simplify and Enhance Experience for Multi-Product Customers**
+
+Churn slightly increases among customers with 3+ products.
+
+- Review product onboarding and support flows to identify and remove friction for multi-product users.
+
+- Conduct experience audits to ensure product combinations are intuitive and well-supported.
+
+- Provide dedicated account managers or advisors to help high-product customers navigate their services more effectively.
+  
+
+5. **Financial Support for At-Risk Segments (Low Balance & Credit Score)**
+
+Low balances and poor credit scores are closely associated with high churn.
+
+- Launch a financial wellness hub with credit-building tools, budgeting resources, and personal finance education.
+
+- Create specialized retention offers (e.g., starter savings boosts, credit coaching) for customers in the 1k–10k balance or ≤400 credit score range.
+
+- Monitor churn patterns by financial tier using real-time dashboards and trigger retention workflows when thresholds are met.
+  
+
+6. **Loyalty Reinforcement for High-Value Customers**
+
+- Mid-to-high balance and credit score customers show the greatest stability.
+
+- Roll out a premium loyalty program (e.g., higher interest, faster support, priority access to new products) for customers with balances between 100k–200k and scores between 601–700.
+
+- Encourage these customers to become brand advocates through referral incentives.
+
+- Use Power BI to track engagement and CLV of this group, ensuring their experience remains high-touch and value-rich.
 
 
 
